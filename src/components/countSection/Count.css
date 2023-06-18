@@ -1,0 +1,19 @@
+.count_container{
+    background-color: #f9f9f9;
+    padding : 5rem;
+
+}
+
+.row p{
+    color :rgb(80, 75, 75);
+    margin-bottom: 0;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.row h3{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    color : rgb(80, 69, 69);
+}
